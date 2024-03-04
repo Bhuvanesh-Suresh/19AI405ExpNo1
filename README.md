@@ -97,8 +97,7 @@ agent.print_status()
 ```
 
 ## Output
-
-![306501850-b44d897c-4547-4ce7-9c78-a116fa5f2939](https://github.com/Haridharshini21500176/19AI405ExpNo1/assets/94168395/90dd4ebd-dd2a-4479-98d7-fedbae43c6f1)
+![ex 1](https://github.com/Bhuvanesh-Suresh/19AI405ExpNo1/assets/145742661/8f741f12-4ae8-4929-9ad4-a5a9a0152ee0)
 
 
 ## Result 
