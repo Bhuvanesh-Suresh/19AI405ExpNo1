@@ -1,13 +1,9 @@
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
-
-
-<h3>AIM:</h3>
-<br>
-<p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
-<br>
-<h3>Theory</h3>
+# ExpNo 1 :Developing AI Agent with PEAS Description
+###  Name: BHUVANESH S R
+###  Register Number: 212223240017
+## AIM:
+To find the PEAS description for the given AI problem and develop an AI agent
+## Theory:
 <h3>Medicine prescribing agent:</h3>
 <p>Such this agent prescribes medicine for fever (greater than 98.5 degrees) which we consider here as unhealthy, by the user temperature input, and another environment is rooms in the hospital (two rooms). This agent has to consider two factors one is room location and an unhealthy patient in a random room, the agent has to move from one room to another to check and treat the unhealthy person. The performance of the agent is calculated by incrementing performance and each time after treating in one room again it has to check another room so that the movement causes the agent to reduce its performance. Hence, agents prescribe medicine to unhealthy.</p>
 <hr>
@@ -40,7 +36,8 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-<H3>DESIGN STEPS</H3>
+
+## Program
 ```
 class VacuumCleanerAgent:
     def __init__(self):
@@ -98,4 +95,20 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 ```
+
+## Output
+
+![306501850-b44d897c-4547-4ce7-9c78-a116fa5f2939](https://github.com/Haridharshini21500176/19AI405ExpNo1/assets/94168395/90dd4ebd-dd2a-4479-98d7-fedbae43c6f1)
+
+
+## Result 
+Thus the AI Agent with PEAS Description was developed and executed sucessfully.
+
+
+
+
+
+
+
+
 
